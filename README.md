@@ -1,4 +1,4 @@
-# Nesneye Dayalı Programlama 2 Final Projesi 🎥
+# Nesneye Dayalı Programlama 2 Final Projesi 
 
 Proje, bir sinema bilet sistemi uygulamasını geliştirmek için tasarlanmıştır. Kullanıcılar, filmler, salonlar ve müşterilerle ilgili işlemleri gerçekleştirebilir.
 
