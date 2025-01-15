@@ -21,4 +21,5 @@ Proje, bir sinema bilet sistemi uygulamasını geliştirmek için tasarlanmışt
   - Filmlere müşteri kaydı
   - Salon ve film detaylarını görüntüleme
 
-Veritabanı olarak resources klasöründe tutulan json'lar kullanılmıştır.
+- **Veritabanı**:
+  - Tüm veriler, **resources** klasöründe JSON formatında saklanır.
