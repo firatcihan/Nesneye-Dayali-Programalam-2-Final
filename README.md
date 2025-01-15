@@ -2,7 +2,7 @@
 
 Proje, bir sinema bilet sistemi uygulamasını geliştirmek için tasarlanmıştır. Kullanıcılar, filmler, salonlar ve müşterilerle ilgili işlemleri gerçekleştirebilir.
 
-## 🚀 Proje Özellikleri
+##  Proje Özellikleri
 
 - **Film Yönetimi**:
   - Film ekleme
